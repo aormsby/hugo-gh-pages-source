@@ -1,4 +1,18 @@
-baseURL = "https://aormsby.github.io/hugo-gh-pages-public/"
+baseURL = "https://aormsby.github.io/hugo-gh-pages-public"
 languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "hello-friend"
+
+defaultTheme = "light"
+
+[params]
+  defaultTheme = "light"
+  author = "Adam Ormsby"
+
+[languages]
+  [languages.en]
+    title = "Tutorial by Adam Ormsby"
+    writtenBy = "by"
+
+    [languages.en.params.logo]
+      logoText = "Tutorial by Adam Ormsby"
+      logoHomeLink = "/hugo-gh-pages-public"
