@@ -1,4 +1,4 @@
-baseURL = "aormsby.github.io/hugo-gh-pages-public"
+baseURL = "https://aormsby.github.io/hugo-gh-pages-public/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hello-friend"
