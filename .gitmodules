@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/aormsby/hugo-gh-pages-public.git
+[submodule "themes/hello-friend"]
+	path = themes/hello-friend
+	url = https://github.com/aormsby/F-hugo-theme-hello-friend.git
