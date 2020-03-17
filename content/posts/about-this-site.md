@@ -1,6 +1,8 @@
 ---
-title: "About This Page"
+title: "About This Site"
 date: 2020-03-17T19:57:41+07:00
+
+description: "The site you see here is the sample work of a tutorial I wrote on deploying a Hugo site with Github Pages and using git submodules in your project configuration. Read more for links to those posts."
 ---
 
 The site you see here is the sample work of a tutorial I wrote on deploying a Hugo site with Github Pages and using git submodules in your project configuration. Follow along at the links below.
